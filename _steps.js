@@ -20,3 +20,14 @@ https://www.youtube.com/watch?v=CAB7Coakljf_channel=GSeriesMusicpath?name=value&
 4. database> connect> show entire code
 5. npm i mongodb
 */
+
+/*
+Insert:
+
+ */
+
+/*
+
+find
+
+*/
