@@ -7,3 +7,16 @@ POST
 5. Make sure to use JSON.stringify to send data "body:"
 6. use express.json() as middle ware
 */
+
+/*
+Query:
+https://www.youtube.com/watch?v=CAB7Coakljf_channel=GSeriesMusicpath?name=value&name=value
+*/
+
+/*
+1. sign up mongodb atlas
+2. dba user
+3. Whitelist your ip address
+4. database> connect> show entire code
+5. npm i mongodb
+*/
