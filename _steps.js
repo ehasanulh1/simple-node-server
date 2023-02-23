@@ -10,7 +10,9 @@ POST
 
 /*
 Query:
-https://www.youtube.com/watch?v=CAB7Coakljf_channel=GSeriesMusicpath?name=value&name=value
+https://www.youtube.com/watch?v=CAB7Coakl&jf_channel=GSeriesMusicpath
+
+path?name=value&name=value
 */
 
 /*
